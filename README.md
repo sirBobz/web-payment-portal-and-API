@@ -1,7 +1,8 @@
 # web-payment-portal-and-API
 A web platform that can enable users to register and send money to each other within the system.
 
-#Project overview
+# Project overview
+
 A client wants to build a web platform that can enable users to register and send money to each other within the system. 
 They top up their accounts through MPESA* and can now transfer amongst themselves. 
 They use the registered number or email address to transfer.  
